@@ -10,8 +10,18 @@ a{
 text-decoration: none;
 }
 
-p h1{
+p{
 COLOR:WHITE;
 }
 
+h1{ 
+color: white;
+}
 
+a{
+    color: white;
+}
+
+h2{
+    color: white;
+}
