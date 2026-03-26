@@ -2,6 +2,16 @@ html, body {
     background-color: darkslategrey;
 }
 
-html, body {
-    
+nav{
+    background-color: lightskyblue;
 }
+
+a{
+text-decoration: none;
+}
+
+p h1{
+COLOR:WHITE;
+}
+
+
